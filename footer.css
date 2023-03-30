@@ -1,0 +1,356 @@
+.div323,
+  .div324,
+  .footer {
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  .footer {
+    top: 2510px;
+    position: absolute;
+     
+    left: 0;
+    background-color: rgba(67, 223, 154, 0.05);
+    flex-direction: column;
+    padding: 50px 0 0;
+    align-items: center;
+    font-size: 14px;
+  }
+
+  .div307 {
+    position: relative;
+    width: 1304px;
+    height: 323px;
+    flex-shrink: 0;
+  }
+  .div308,
+  .div309 {
+    position: absolute;
+  }
+  .div308 {
+    top: 0;
+    left: 12px;     
+    width: 410.66px;
+    height: 249.31px;
+  }
+
+  .logo-main-footerpng-icon {
+    position: absolute;
+    top: calc(50% - 124.66px);
+    left: 0;
+    width: 257px;
+    height: 61px;
+    object-fit: cover;
+  }
+
+
+  .dealbuddy-aims-to,
+  .lets-find-your {
+    position: absolute;
+    top: 86px;
+    left: 0;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    width: 367.43px;
+    height: 59px;
+  }
+
+  .lets-find-your {
+    top: 178px;
+    width: 184.98px;
+    height: 19px;
+  }
+
+  .div308,
+  .div309 {
+    position: absolute;
+  }
+  .div309 {
+    top: 214px;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    padding: 0 136.65625px 0 0;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 10px;
+  }
+
+  .app-storesvg-icon {
+    position: relative;
+    width: 120px;
+    height: 35.31px;
+    flex-shrink: 0;
+  }
+
+  .div310,
+  .div317,
+  .li9 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .div310 {
+    position: absolute;
+    top: 0;
+    left: 434.66px;
+    flex-direction: row;
+    font-size: 18px;
+  }
+
+  .div311,
+  .li3,
+  .li4,
+  .ul1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .div311,
+  .ul1 {
+    flex-direction: column;
+  }
+
+  .div311 {
+    padding: 0 30px 0 12px;
+  }
+
+  .quick-links {
+    position: relative;
+    line-height: 28px;
+    font-weight: 600;
+    z-index: 1;
+  }
+
+  .div311,
+  .li3,
+  .li4,
+  .ul1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .ul1 {
+    flex-direction: column;
+  }
+
+  .ul1 {
+    z-index: 0;
+    font-size: 20px;
+    color: #00c86d;
+    font-family: Inter;
+  }
+  .li5 {
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.15);
+    flex-direction: row;
+    padding: 14px 188px 15px 0;
+    gap: 6px;
+  }
+
+  .li5,
+  .li6,
+  .li7 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .li6 {
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.15);
+    flex-direction: row;
+    padding: 14px 216px 15px 0;
+    gap: 6px;
+  }
+  .li7 {
+    padding: 14px 221px 15px 0;
+  }
+  .li7,
+  .li8,
+  .li9 {
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.15);
+    flex-direction: row;
+    gap: 6px;
+  }
+  .li8 {
+    display: flex;
+    padding: 14px 229px 15px 0;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .li9 {
+    padding: 14px 86px 15px 0;
+  }
+  .div317 {
+    flex-direction: column;
+    padding: 0 12px 0 30px;
+  }
+
+  .li,
+  .li1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .li {
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.15);
+    flex-direction: row;
+    padding: 14px 218px 15px 0;
+    gap: 6px;
+  }
+  .li1 {
+    padding: 14px 198px 15px 0;
+  }
+  .li1,
+  .li2,
+  .li3 {
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.15);
+    flex-direction: row;
+    gap: 6px;
+  }
+  .li2 {
+    display: flex;
+    padding: 14px 187px 15px 0;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .li3 {
+    padding: 14px 224px 15px 0;
+  }
+  .div311,
+  .li3,
+  .li4,
+  .ul1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .li4 {
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.15);
+    flex-direction: row;
+    padding: 14px 222px 15px 0;
+    gap: 6px;
+  }
+
+  .subway-grey-street {
+    position: relative;
+    line-height: 20px;
+    
+  }
+  a {
+    color: inherit;
+    transition:.5s;
+    text-decoration: none;
+    outline: 0!important;
+}
+a:hover {
+    color: #00c86d;
+  }
+  .online-store,
+  .zeke-skincare {
+    position: relative;
+    font-size: 18px;
+    line-height: 28px;
+    font-family: "Open Sans";
+    color: #000;
+    text-decoration-line: none;
+  }
+  .online-store {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .logo-footerpng-icon {
+    position: absolute;
+    top: calc(50% - 161.5px);
+    left: 1181.98px;
+    width: 110px;
+    height: 110px;
+    object-fit: cover;
+  }
+
+  .div323 {
+    border-top: 1px solid #e1e2e6;
+    flex-direction: row;
+    padding: 31px 300px 30px;
+    align-items: flex-start;
+  }
+
+  .div324 {
+    flex-direction: column;
+    padding: 0 20px;
+    align-items: flex-start;
+    gap: 16px;
+  }
+  .third-party-trademarks-are {
+    position: relative;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    width: 1272.89px;
+  }
+
+  .div325,
+  .div326 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .div325 {
+    gap: 616.39px;
+    color: rgba(0, 0, 0, 0.5);
+  }
+  .div326 {
+    gap: 0.25px;
+    color: #000;
+  }
+
+  .p22 {
+    display: flex;
+    flex-direction: row;
+    padding: 0 39.453125px 0 16px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 15.45px;
+  }
+
+  .div328 {
+    position: relative;
+    width: 104px;
+    height: 32px;
+    flex-shrink: 0;
+  }
+
+  .facebook-logopng-icon,
+  .instagram-logopng-icon {
+    position: absolute;
+    top: calc(50% - 16px);
+    left: 0;
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+  }
+  .instagram-logopng-icon {
+    left: 52px;
+  }
+  .wwwdealbuddyconz-by-htmlto {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 6630px;
+    text-align: left;
+    font-size: 20px;
+    color: #000;
+    font-family: "Open Sans";
+  }
+
+  .dealbuddy-layout {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1920px;
+    height: 5362.66px;
+  }
